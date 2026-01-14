@@ -9,3 +9,7 @@ Il suffit de prendre les 3 fichiers .lang contenus dans le rep et les glisser da
 ## Elle contient quoi?
 
 La traduction contient tout les items/menus du jeu (~10000 lignes de traduction)
+
+## Pour les erreurs
+
+Si jamais vous trouvez des incohérences/erreurs de traduction, il suffit juste de me contacter sur Discord (h3phaaa)
