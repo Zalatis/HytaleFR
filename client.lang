@@ -1730,6 +1730,7 @@ myAvatar.offline.description.offline = Vous êtes en mode hors ligne.\nPour util
 myAvatar.offline.description.connecting = Connexion aux serveurs Hytale, réessayez dans un instant...
 myAvatar.offline.description.unavailable = Le créateur d'Avatar est actuellement indisponible car nous avons des problèmes à joindre les serveurs Hytale. Réessayez plus tard ou redémarrez le jeu.
 
+# https://github.com/h3pha/HytaleFR
 # === settings ===
 settings.title = Paramètres
 
@@ -2257,6 +2258,7 @@ feedback.success.title = Merci !
 feedback.success.feedback = Votre avis a été soumis avec succès. Nous apprécions votre contribution !
 feedback.success.bugreport = Votre rapport de bug a été soumis avec succès. Nous allons y jeter un œil !
 feedback.success.submitMore = Soumettre Plus
+
 
 
 bugReportButton.tooltip = Signaler un Bug ou Avis
