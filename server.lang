@@ -5224,15 +5224,15 @@ items.Portal_Pad_Zone2.name = Portail de donjon
 items.Portal_Prefab.name = Portail préfabriqué
 items.PortalKey.description = Placez-vous dans le <item is="Portal_Device"/> pour visiter ce Fragment.\nTravail en cours
 items.PortalKey_Windsurf_Valley.name = Fragment : Orbis - Vallée de Windrider
-items.PortalKey_Windsurf_Valley.description = <msg key= "server.items.PortalKey.description"/>\n\n<i>A Feran valorise la liberté par-dessus tout, et cette liberté n'est nulle part plus incarnée que dans les vents de Windrider Valley.</i>
+items.PortalKey_Windsurf_Valley.description = <msg key="server.items.PortalKey.description"/>\n\n<i>A Feran valorise la liberté par-dessus tout, et cette liberté n'est nulle part plus incarnée que dans les vents de Windrider Valley.</i>
 items.PortalKey_Jungles.name = Fragment : Orbis - Refuge Tal'Kesi
-items.PortalKey_Jungles.description = <msg key= "server.items.PortalKey.description"/>\n\n<i>Au plus profond des terres désolées laissées par une ancienne civilisation, un havre primordial prospère.</i>
+items.PortalKey_Jungles.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Au plus profond des terres désolées laissées par une ancienne civilisation, un havre primordial prospère.</i>
 items.PortalKey_Taiga.name = Fragment : Orbis - Dragonspire Weald
-items.PortalKey_Taiga.description = <msg key= "server.items.PortalKey.description"/>\n\n<i>Il existe des forêts gelées dans lesquelles même un étranger n'ose mettre les pieds, peu importe les chuchotements.</i>
+items.PortalKey_Taiga.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Il existe des forêts gelées dans lesquelles même un étranger n'ose mettre les pieds, peu importe les chuchotements.</i>
 items.PortalKey_Hederas_Lair.name = Fragment : Orbis - Le Dread Wade
-items.PortalKey_Hederas_Lair.description = <msg key= "server.items.PortalKey.description"/>\n\n<i>Peu de gens ont connu les terreurs qui se cachent dans les profondeurs les plus obscures d'Orbis.</i>
+items.PortalKey_Hederas_Lair.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Peu de gens ont connu les terreurs qui se cachent dans les profondeurs les plus obscures d'Orbis.</i>
 items.PortalKey_Henges.name = Fragment : Orbis - Silent Henge
-items.PortalKey_Henges.description = <msg key= "server.items.PortalKey.description"/>\n\n<i>Une mystérieuse tour suspendue au-dessus d'une terre gelée.</i>
+items.PortalKey_Henges.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Une mystérieuse tour suspendue au-dessus d'une terre gelée.</i>
 items.Portal_Device.name = Ancienne porte d'entrée
 items.Portal_Device.description = Placez-le dans votre base pour abattre les barrières et voyager vers d'autres fragments !<i>\nTravail en cours.\n\nBien que la malédiction tienne l'Orbis de Gaia enfermé, il existe des moyens de percer le Vide qui le voile.</i>
 items.Hub_Portal_Zone3_Taiga1.name = Portail de la taïga de la zone 3
@@ -7676,25 +7676,25 @@ portals.discoverySubtitle = Fragment d'Orbis
 portals.incomplete.description = <b>Les énergies contenues dans ce Fragment n'ont pas encore pris leur forme définitive. Tout ce que vous rencontrez à l'intérieur - l'histoire, la fonction et la forme - attend sa véritable forme.</b>
 portals.hederas_lair.description = Rares sont ceux qui ont connu les terreurs qui se cachent dans les profondeurs les plus obscures d'Orbis. Encore moins sont revenus inchangés.\n\
 \n\
-<msg key= "server.portals.incomplete.description"/>
+<msg key="server.portals.incomplete.description"/>
 portals.boreal.description = Il existe des forêts gelées dans lesquelles même un Étranger n'ose pas mettre les pieds, peu importe les murmures qui l'appellent.\n\
 \n\
 Legends about the region's name pile up: Mountains obscuring the sky, towering trees grazing the clouds, or perhaps ancient creatures born of elemental ice slumbering among the peaks.\n\
 \n\
-<msg key= "server.portals.incomplete.description"/>
+<msg key="server.portals.incomplete.description"/>
 portals.henges.description = Parfois, la frontière entre vérité et fiction s’estompe. Tous les fragments de l'Ancien Portail ne montrent pas que vous détenez les vérités que vous recherchez.\n\
 \n\
 Yet, surely nothing exists without purpose. Perhaps that leads us to a different question: who built these Ancient Gateways, and why?\n\
 \n\
-<msg key= "server.portals.incomplete.description"/>
+<msg key="server.portals.incomplete.description"/>
 portals.oasis.description = Un Feran valorise la liberté par-dessus tout, et cette liberté n'est nulle part plus incarnée que dans les vents de Windrider Valley.\n\
 \n\
 It was here that they sought refuge in the darkest years of their history, setting up camps where the towering canyon walls might hide them from view.\n\
 \n\
-<msg key= "server.portals.incomplete.description"/>
+<msg key="server.portals.incomplete.description"/>
 portals.jungles.description = Au plus profond des terres désolées laissées par une ancienne civilisation, un havre primordial prospère.\n\
 \n\
-<msg key= "server.portals.incomplete.description"/>
+<msg key="server.portals.incomplete.description"/>
 portals.undefined.obj1 = [TMP] Faire quelque chose ?
 portals.undefined.tip1 = [TMP] Soyez prêt !
 portals.taiga.tip1 = <color is="#05c09a">Une bête mythique dort ici, liée dans un\n\
