@@ -3765,7 +3765,7 @@ items.Bench_Furniture.description = Utilisé pour fabriquer des meubles, des ran
 items.Bench_Furniture.name = Établi de meubles
 items.Bench_Campfire.description = Cuisinez des repas de base.\n\n<i>Pour de nombreux aventuriers, un simple feu de camp suffit à déclarer un lieu « chez-soi ». Des liens inébranlables peuvent être forgés en se prélassant dans sa chaleur et tous les grands contes ont jailli de ses braises.</i>
 items.Bench_Campfire.name = Feu de camp
-items.Coop_Chicken.description = Les poulets capturés dans un<item is= "Tool_Capture_Crate"/>peuvent être hébergés ici.
+items.Coop_Chicken.description = Les poulets capturés dans un <item is="Tool_Capture_Crate"/> peuvent être hébergés ici.
 items.Coop_Chicken.name = Poulailler
 items.Bench_Cooking.description = Une cuisine intégrée pouvant être utilisée pour réaliser des plats avancés.
 items.Bench_Cooking.name = Cuisinière du chef
@@ -4443,21 +4443,21 @@ items.Ingredient_Feathers_Red.name = Plumes rouges
 items.Ingredient_Fibre.name = Fibre végétale
 items.Ingredient_Hay.name = Balle de foin
 items.Ingredient_Hide_Dark.name = Peau sombre
-items.Ingredient_Hide_Dark.description = [TMP] Peut être traité en<item is= "Ingredient_Leather_Dark"/>à un<item is= "Bench_Tannery"/>.
+items.Ingredient_Hide_Dark.description = [TMP] Peut être traité en <item is="Ingredient_Leather_Dark"/> à un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Heavy.name = Peau lourde
-items.Ingredient_Hide_Heavy.description = [TMP] Peut être traité en<item is= "Ingredient_Leather_Heavy"/>à un<item is= "Bench_Tannery"/>.
+items.Ingredient_Hide_Heavy.description = [TMP] Peut être traité en <item is="Ingredient_Leather_Heavy"/> à un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Light.name = Cacher la lumière
-items.Ingredient_Hide_Light.description = [TMP] Peut être traité en<item is= "Ingredient_Leather_Light"/>à un<item is= "Bench_Tannery"/>.
+items.Ingredient_Hide_Light.description = [TMP] Peut être traité en <item is="Ingredient_Leather_Light"/> à un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Medium.name = Peau moyenne
-items.Ingredient_Hide_Medium.description = [TMP] Peut être traité en<item is= "Ingredient_Leather_Medium"/>à un<item is= "Bench_Tannery"/>.
+items.Ingredient_Hide_Medium.description = [TMP] Peut être traité en <item is="Ingredient_Leather_Medium"/> à un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Prismic.name = Peau prismatique
-items.Ingredient_Hide_Prismic.description = [TMP] Peut être traité en<item is= "Ingredient_Leather_Prismic"/>à un<item is= "Bench_Tannery"/>.
+items.Ingredient_Hide_Prismic.description = [TMP] Peut être traité en <item is="Ingredient_Leather_Prismic"/> à un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Scaled.name = Masquer à l'échelle
-items.Ingredient_Hide_Scaled.description = [TMP] Peut être traité en<item is= "Ingredient_Leather_Scaled"/>à un<item is= "Bench_Tannery"/>.
+items.Ingredient_Hide_Scaled.description = [TMP] Peut être traité en <item is="Ingredient_Leather_Scaled"/> à un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Soft.name = Peau douce
-items.Ingredient_Hide_Soft.description = [TMP] Peut être traité en<item is= "Ingredient_Leather_Soft"/>à un<item is= "Bench_Tannery"/>.
+items.Ingredient_Hide_Soft.description = [TMP] Peut être traité en <item is="Ingredient_Leather_Soft"/> à un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Storm.name = Cacher la tempête
-items.Ingredient_Hide_Storm.description = [TMP] Peut être traité en<item is= "Ingredient_Leather_Storm"/>à un<item is= "Bench_Tannery"/>.
+items.Ingredient_Hide_Storm.description = [TMP] Peut être traité en <item is="Ingredient_Leather_Storm"/> à un <item is="Bench_Tannery"/>.
 items.Ingredient_Leather_Dark.name = Cuir foncé
 items.Ingredient_Leather_Heavy.name = Cuir épais
 items.Ingredient_Leather_Heavy.description = Fabriqué à partir des peaux épaisses de grands prédateurs.\n\n<i>Chaque chasseur aspire à abattre les créatures dont on parle uniquement dans les mythes. À l'exception de quelques-uns qui se sont regroupés à l'époque des héros, la plupart doivent plutôt se contenter d'ours, de loups et d'autres prédateurs suprêmes.</i>
@@ -4497,14 +4497,14 @@ items.Media_RemoteControl.name = Télécommande multimédia
 items.Objective_Bounty.name = Prime
 items.Objective_Treasure_Map.name = Carte au Trésor
 items.Ore_Adamantite.name = Minerai d'adamantite
-items.Ore_Adamantite.description = [TMP] Peut être fondu dans un<item is= "Ingredient_Bar_Adamantite"/>à un<item is= "Bench_Furnace"/>.
+items.Ore_Adamantite.description = [TMP] Peut être fondu dans un <item is="Ingredient_Bar_Adamantite"/> à un <item is="Bench_Furnace"/>.
 items.Ore_Adamantite_Basalt.name = Minerai d'adamantite - Basalte
 items.Ore_Adamantite_Shale.name = Minerai d'adamantite - Schiste
 items.Ore_Adamantite_Slate.name = Minerai d'adamantite - Ardoise
 items.Ore_Adamantite_Stone.name = Minerai d'adamantite - Pierre
 items.Ore_Adamantite_Volcanic.name = Minerai d'adamantite - Volcanique
 items.Ore_Cobalt.name = Minerai de cobalt
-items.Ore_Cobalt.description = [TMP] Peut être fondu dans un<item is= "Ingredient_Bar_Cobalt"/>à un<item is= "Bench_Furnace"/>.
+items.Ore_Cobalt.description = [TMP] Peut être fondu dans un <item is="Ingredient_Bar_Cobalt"/> à un <item is="Bench_Furnace"/>.
 items.Ore_Cobalt_Basalt.name = Minerai de cobalt - Basalte
 items.Ore_Cobalt_Sandstone.name = Minerai de cobalt - Grès
 items.Ore_Cobalt_Shale.name = Minerai de cobalt - Schiste
@@ -4512,21 +4512,21 @@ items.Ore_Cobalt_Slate.name = Minerai de cobalt - Ardoise
 items.Ore_Cobalt_Stone.name = Minerai de cobalt - Pierre
 items.Ore_Cobalt_Volcanic.name = Minerai de cobalt - Volcanique
 items.Ore_Copper.name = Minerai de cuivre
-items.Ore_Copper.description = [TMP] Peut être fondu dans un<item is= "Ingredient_Bar_Copper"/>à un<item is= "Bench_Furnace"/>.
+items.Ore_Copper.description = [TMP] Peut être fondu dans un <item is="Ingredient_Bar_Copper"/> à un <item is="Bench_Furnace"/>.
 items.Ore_Copper_Basalt.name = Minerai de cuivre - Basalte
 items.Ore_Copper_Sandstone.name = Minerai de cuivre - Grès
 items.Ore_Copper_Shale.name = Minerai de cuivre - Schiste
 items.Ore_Copper_Stone.name = Minerai de cuivre - Pierre
 items.Ore_Copper_Volcanic.name = Minerai de cuivre - Volcanique
 items.Ore_Gold.name = Minerai d'or
-items.Ore_Gold.description = [TMP] Peut être fondu dans un<item is= "Ingredient_Bar_Gold"/>à un<item is= "Bench_Furnace"/>.
+items.Ore_Gold.description = [TMP] Peut être fondu dans un <item is="Ingredient_Bar_Gold"/> à un <item is="Bench_Furnace"/>.
 items.Ore_Gold_Basalt.name = Minerai d'or - Basalte
 items.Ore_Gold_Sandstone.name = Minerai d'or - Grès
 items.Ore_Gold_Shale.name = Minerai d'or - Schiste
 items.Ore_Gold_Stone.name = Minerai d'or - Pierre
 items.Ore_Gold_Volcanic.name = Minerai d'or - Volcanique
 items.Ore_Iron.name = Minerai de fer
-items.Ore_Iron.description = [TMP] Peut être fondu dans un<item is= "Ingredient_Bar_Iron"/>à un<item is= "Bench_Furnace"/>.
+items.Ore_Iron.description = [TMP] Peut être fondu dans un <item is="Ingredient_Bar_Iron"/> à un <item is="Bench_Furnace"/>.
 items.Ore_Iron_Basalt.name = Minerai de fer - Basalte
 items.Ore_Iron_Sandstone.name = Minerai de fer - Grès
 items.Ore_Iron_Shale.name = Minerai de fer - Schiste
@@ -4534,23 +4534,23 @@ items.Ore_Iron_Slate.name = Minerai de fer - Ardoise
 items.Ore_Iron_Stone.name = Minerai de fer - Pierre
 items.Ore_Iron_Volcanic.name = Minerai de fer - Volcanique
 items.Ore_Mithril.name = Minerai de mithril
-items.Ore_Mithril.description = [TMP] Peut être fondu dans un<item is= "Ingredient_Bar_Mithril"/>à un<item is= "Bench_Furnace"/>.
+items.Ore_Mithril.description = [TMP] Peut être fondu dans un <item is="Ingredient_Bar_Mithril"/> à un <item is="Bench_Furnace"/>.
 items.Ore_Mithril_Basalt.name = Minerai de mithril - Basalte
 items.Ore_Mithril_Magma.name = Minerai de mithril - Magma
 items.Ore_Mithril_Slate.name = Minerai de mithril - Ardoise
 items.Ore_Mithril_Stone.name = Minerai de mithril - Pierre
 items.Ore_Mithril_Volcanic.name = Minerai de mithril – Volcanique
 items.Ore_Onyxium.name = Minerai d'onyxium
-items.Ore_Onyxium.description = [TMP] Peut être fondu dans un<item is= "Ingredient_Bar_Onyxium"/>à un<item is= "Bench_Furnace"/>.
+items.Ore_Onyxium.description = [TMP] Peut être fondu dans un <item is="Ingredient_Bar_Onyxium"/> à un <item is="Bench_Furnace"/>.
 items.Ore_Onyxium_Basalt.name = Minerai d'onyxium - Basalte
 items.Ore_Onyxium_Stone.name = Minerai d'onyxium - Pierre
 items.Ore_Onyxium_Shale.name = Minerai d'onyxium - Schiste
 items.Ore_Onyxium_Volcanic.name = Minerai d'onyxium - Volcanique
 items.Ore_Onyxium_Sandstone.name = Minerai d'onyxium - Grès
 items.Ore_Prisma.name = Heures de prisme
-items.Ore_Prisma.description = [TMP] Peut être fondu dans un<item is= "Ingredient_Bar_Prisma"/>à un<item is= "Bench_Furnace"/>.
+items.Ore_Prisma.description = [TMP] Peut être fondu dans un <item is="Ingredient_Bar_Prisma"/> à un <item is="Bench_Furnace"/>.
 items.Ore_Silver.name = Minerai d'argent
-items.Ore_Silver.description = [TMP] Peut être fondu dans un<item is= "Ingredient_Bar_Silver"/>à un<item is= "Bench_Furnace"/>.
+items.Ore_Silver.description = [TMP] Peut être fondu dans un <item is="Ingredient_Bar_Silver"/> à un <item is="Bench_Furnace"/>.
 items.Ore_Silver_Basalt.name = Minerai d'argent - Basalte
 items.Ore_Silver_Sandstone.name = Minerai d'argent - Grès
 items.Ore_Silver_Shale.name = Minerai d'argent - Schiste
@@ -4558,7 +4558,7 @@ items.Ore_Silver_Slate.name = Minerai d'argent - Ardoise
 items.Ore_Silver_Stone.name = Minerai d'argent - Pierre
 items.Ore_Silver_Volcanic.name = Minerai d'argent - Volcanique
 items.Ore_Thorium.name = Minerai de thorium
-items.Ore_Thorium.description = [TMP] Peut être fondu dans un<item is= "Ingredient_Bar_Thorium"/>à un<item is= "Bench_Furnace"/>.
+items.Ore_Thorium.description = [TMP] Peut être fondu dans un <item is="Ingredient_Bar_Thorium"/> à un <item is="Bench_Furnace"/>.
 items.Ore_Thorium_Basalt.name = Minerai de thorium - Basalte
 items.Ore_Thorium_Sandstone.name = Minerai de thorium - Grès
 items.Ore_Thorium_Shale.name = Minerai de thorium - schiste
@@ -5222,7 +5222,7 @@ items.Launchpad.name = Plateforme de lancement
 items.Portal_Pad_Wind.name = Plateforme de distorsion
 items.Portal_Pad_Zone2.name = Portail de donjon
 items.Portal_Prefab.name = Portail préfabriqué
-items.PortalKey.description = Placez-vous dans le<item is= "Portal_Device"/>pour visiter ce Fragment.\nTravail en cours
+items.PortalKey.description = Placez-vous dans le <item is="Portal_Device"/> pour visiter ce Fragment.\nTravail en cours
 items.PortalKey_Windsurf_Valley.name = Fragment : Orbis - Vallée de Windrider
 items.PortalKey_Windsurf_Valley.description = <msg key= "server.items.PortalKey.description"/>\n\n<i>A Feran valorise la liberté par-dessus tout, et cette liberté n'est nulle part plus incarnée que dans les vents de Windrider Valley.</i>
 items.PortalKey_Jungles.name = Fragment : Orbis - Refuge Tal'Kesi
@@ -5250,7 +5250,7 @@ items.VoidInvasion_Portal.description = Bloc utilitaire pour les invasions du vi
 items.Potion_Antidote.name = Antidote
 items.Potion_Antidote.description = Guérit le poison et accorde une immunité temporaire.
 items.Potion_Empty.name = Bouteille de potion vide
-items.Potion_Empty.description = Peut être acquis en fondant du sable dans un<item is= "Bench_Furnace"/>.
+items.Potion_Empty.description = Peut être acquis en fondant du sable dans un <item is="Bench_Furnace"/>.
 items.Potion_Empty_Large.name = Grande bouteille de potion
 items.Potion_Empty_Small.name = Petite bouteille de potion
 items.Potion_Health.name = Potion de santé
@@ -5831,44 +5831,44 @@ items.Rock_Volcanic_Half.name = Demi-dalle de roche volcanique
 items.Rock_Volcanic_Stalactite_Large.name = Stalactite volcanique - Grande
 items.Rock_Volcanic_Stalactite_Small.name = Stalactite volcanique - Petite
 items.Rubble_Aqua.name = Aqua décombres
-items.Rubble_Aqua.description = [TMP] Peut également être acquis en brisant des pavés dans un<item is= "Bench_Salvage"/>.
+items.Rubble_Aqua.description = [TMP] Peut également être acquis en brisant des pavés dans un <item is="Bench_Salvage"/>.
 items.Rubble_Aqua_Medium.name = Aqua Rubble - Moyen
 items.Rubble_Basalt.name = Décombres de basalte
-items.Rubble_Basalt.description = [TMP] Peut également être acquis en brisant des pavés dans un<item is= "Bench_Salvage"/>.
+items.Rubble_Basalt.description = [TMP] Peut également être acquis en brisant des pavés dans un <item is="Bench_Salvage"/>.
 items.Rubble_Basalt_Medium.name = Décombres de basalte - Moyen
 items.Rubble_Calcite.name = Décombres de calcite
-items.Rubble_Calcite.description = [TMP] Peut également être acquis en brisant des pavés dans un<item is= "Bench_Salvage"/>.
+items.Rubble_Calcite.description = [TMP] Peut également être acquis en brisant des pavés dans un <item is="Bench_Salvage"/>.
 items.Rubble_Calcite_Medium.name = Décombres de calcite - Moyen
 items.Rubble_Ice.name = Morceaux de glace
 items.Rubble_Ice_Medium.name = Morceaux de glace - Moyen
 items.Rubble_Marble.name = Décombres de marbre
-items.Rubble_Marble.description = [TMP] Peut également être acquis en brisant des pavés dans un<item is= "Bench_Salvage"/>.
+items.Rubble_Marble.description = [TMP] Peut également être acquis en brisant des pavés dans un <item is="Bench_Salvage"/>.
 items.Rubble_Marble_Medium.name = Décombres de marbre - Moyen
 items.Rubble_Quartzite.name = Décombres de quartzite
-items.Rubble_Quartzite.description = [TMP] Peut également être acquis en brisant des pavés dans un<item is= "Bench_Salvage"/>.
+items.Rubble_Quartzite.description = [TMP] Peut également être acquis en brisant des pavés dans un <item is="Bench_Salvage"/>.
 items.Rubble_Quartzite_Medium.name = Décombres de quartzite - Moyen
 items.Rubble_Sandstone.name = Décombres de grès
-items.Rubble_Sandstone.description = [TMP] Peut également être acquis en brisant des pavés dans un<item is= "Bench_Salvage"/>.
+items.Rubble_Sandstone.description = [TMP] Peut également être acquis en brisant des pavés dans un <item is="Bench_Salvage"/>.
 items.Rubble_Sandstone_Medium.name = Gravés de grès - Moyen
 items.Rubble_Sandstone_Red.name = Décombres de grès rouge
-items.Rubble_Sandstone_Red.description = [TMP] Peut également être acquis en brisant des pavés dans un<item is= "Bench_Salvage"/>.
+items.Rubble_Sandstone_Red.description = [TMP] Peut également être acquis en brisant des pavés dans un <item is="Bench_Salvage"/>.
 items.Rubble_Sandstone_Red_Medium.name = Gravés de Grès Rouge - Moyen
 items.Rubble_Sandstone_White.name = Décombres de grès blanc
-items.Rubble_Sandstone_White.description = [TMP] Peut également être acquis en brisant des pavés dans un<item is= "Bench_Salvage"/>.
+items.Rubble_Sandstone_White.description = [TMP] Peut également être acquis en brisant des pavés dans un <item is="Bench_Salvage"/>.
 items.Rubble_Sandstone_White_Medium.name = Gravés de Grès Blanc - Moyen
 items.Rubble_Shale.name = Décombres de schiste
-items.Rubble_Shale.description = [TMP] Peut également être acquis en brisant des pavés dans un<item is= "Bench_Salvage"/>.
+items.Rubble_Shale.description = [TMP] Peut également être acquis en brisant des pavés dans un <item is="Bench_Salvage"/>.
 items.Rubble_Shale_Medium.name = Décombres de schiste - Moyen
 items.Rubble_Slate.name = Décombres d'ardoise
-items.Rubble_Slate.description = [TMP] Peut également être acquis en brisant des pavés dans un<item is= "Bench_Salvage"/>.
+items.Rubble_Slate.description = [TMP] Peut également être acquis en brisant des pavés dans un <item is="Bench_Salvage"/>.
 items.Rubble_Slate_Medium.name = Gravés d'ardoise - Moyen
 items.Rubble_Stone.name = Décombres de pierre
-items.Rubble_Stone.description = [TMP] Peut également être acquis en brisant des pavés dans un<item is= "Bench_Salvage"/>.
+items.Rubble_Stone.description = [TMP] Peut également être acquis en brisant des pavés dans un <item is="Bench_Salvage"/>.
 items.Rubble_Stone_Medium.name = Décombres de pierre - Moyen
 items.Rubble_Stone_Mossy.name = Décombres de pierres moussues
 items.Rubble_Stone_Mossy_Medium.name = Décombres de pierre moussus - Moyen
 items.Rubble_Volcanic.name = Décombres volcaniques
-items.Rubble_Volcanic.description = [TMP] Peut également être acquis en brisant des pavés dans un<item is= "Bench_Salvage"/>.
+items.Rubble_Volcanic.description = [TMP] Peut également être acquis en brisant des pavés dans un <item is="Bench_Salvage"/>.
 items.Rubble_Volcanic_Medium.name = Décombres volcaniques - Moyen
 items.Soil_Ash.name = Sol cendré
 items.Soil_Clay.name = Argile
@@ -6308,9 +6308,9 @@ items.Weapon_Staff_Cobalt.name = Bâton de cobalt
 items.Weapon_Staff_Copper.name = Bâton de cuivre
 items.Weapon_Staff_Crystal_Fire_Trork.name = Bâton de Trork
 items.Weapon_Staff_Crystal_Flame.name = Bâton de cristal de flamme
-items.Weapon_Staff_Crystal_Flame.description = [TMP] Consomme<item is= "Ingredient_Fire_Essence"/>.\n\n<color is="#ccaa00">Travail en cours</color>
+items.Weapon_Staff_Crystal_Flame.description = [TMP] Consomme <item is="Ingredient_Fire_Essence"/>.\n\n<color is="#ccaa00">Travail en cours</color>
 items.Weapon_Staff_Crystal_Ice.name = Bâton de cristal de glace
-items.Weapon_Staff_Crystal_Ice.description = [TMP] Consomme<item is= "Ingredient_Ice_Essence"/>.\n\n<color is="#ccaa00">Travail en cours</color>
+items.Weapon_Staff_Crystal_Ice.description = [TMP] Consomme <item is="Ingredient_Ice_Essence"/>.\n\n<color is="#ccaa00">Travail en cours</color>
 items.Weapon_Staff_Crystal_Purple.name = Bâton de cristal violet
 items.Weapon_Staff_Crystal_Red.name = Bâton de cristal rouge
 items.Weapon_Staff_Doomed.name = Bâton de l'Étranger maudit
@@ -6843,7 +6843,7 @@ items.Rock_Runic_Darkblue_Brick_Pipe_Short.name = Pipe en brique runique bleu fo
 items.Rock_Runic_Darkblue_Brick_Stairs.name = Escaliers en brique runique bleu foncé
 items.Rock_Runic_Darkblue_Brick_Wall.name = Mur de briques runiques bleu foncé
 items.Rock_Salt.name = Bloc de sel
-items.Rock_Salt.description = Peut être affiné au<item is= "Bench_Cooking"/>.
+items.Rock_Salt.description = Peut être affiné au <item is="Bench_Cooking"/>.
 items.Rock_Salt_Half.name = Demi-dalle de sel
 items.Rock_Slate_Cobble_Corner.name = Galets d'ardoise - Coin
 items.Plant_Fruit_Apple.description = [TMP] Restaure instantanément <color is="#ffffff">5%</color> santé et accorde :\n\n•<color is="#ffffff">Régénération de santé I</color>\n•<color is="#ffffff">Augmentation d'endurance I</color>\n\nDurée :<color is="#ffffff">0:45</color>
@@ -6874,13 +6874,13 @@ items.Food_Salad_Mushroom.description = [TMP] Restaure instantanément <color is
 items.Food_Salad_Caesar.description = [TMP] Restaure instantanément <color is="#ffffff">15%</color> santé et accorde :\n\n•<color is="#ffffff">Régénération de santé III</color>\n•<color is="#ffffff">Augmentation d'endurance III</color>\n\nDurée :<color is="#ffffff">6:00</color>
 items.Food_Pie_Apple.description = [TMP] Restaure instantanément <color is="#ffffff">15%</color> santé et accorde :\n\n•<color is="#ffffff">Régénération de santé III</color>\n•<color is="#ffffff">Augmentation d'endurance III</color>\n\nDurée :<color is="#ffffff">6:00</color>
 items.Recipe_Food_Pie_Apple.name = [TMP] Recette: Tarte aux pommes
-items.Recipe_Food_Pie_Apple.description = [TMP] Apprend la recette<item is= "Food_Pie_Apple"/>.\n\nRétablit instantanément <color is="#ffffff">15%</color> de santé et accorde :\n\n•<color is="#ffffff">Régénération de santé III</color>\n•<color is="#ffffff">Augmentation d'endurance III</color> VAR_12__\nDurée :<color is="#ffffff">6 :00</color>
+items.Recipe_Food_Pie_Apple.description = [TMP] Apprend la recette <item is="Food_Pie_Apple"/>.\n\nRétablit instantanément <color is="#ffffff">15%</color> de santé et accorde :\n\n•<color is="#ffffff">Régénération de santé III</color>\n•<color is="#ffffff">Augmentation d'endurance III</color> VAR_12__\nDurée :<color is="#ffffff">6 :00</color>
 items.Recipe_Food_Pie_Pumpkin.name = [TMP] Recette: Tarte à la citrouille
-items.Recipe_Food_Pie_Pumpkin.description = [TMP] Apprend la recette<item is= "Food_Pie_Pumpkin"/>.\n\nRétablit instantanément <color is="#ffffff">15%</color> de santé et accorde :\n\n•<color is="#ffffff">Régénération de santé III</color>\n•<color is="#ffffff">Augmentation d'endurance III</color> VAR_12__\nDurée :<color is="#ffffff">6 :00</color>
+items.Recipe_Food_Pie_Pumpkin.description = [TMP] Apprend la recette <item is="Food_Pie_Pumpkin"/>.\n\nRétablit instantanément <color is="#ffffff">15%</color> de santé et accorde :\n\n•<color is="#ffffff">Régénération de santé III</color>\n•<color is="#ffffff">Augmentation d'endurance III</color> VAR_12__\nDurée :<color is="#ffffff">6 :00</color>
 items.Recipe_Food_Pie_Meat.name = [TMP] Recette: Tourte à la viande
-items.Recipe_Food_Pie_Meat.description = [TMP] Apprend la recette<item is= "Food_Pie_Meat"/>.\n\nRétablit instantanément <color is="#ffffff">15%</color> de santé et accorde :\n\n•<color is="#ffffff">Régénération de santé III</color>\n•<color is="#ffffff">Augmentation de santé III</color> VAR_12__\nDurée :<color is="#ffffff">6 :00</color>
+items.Recipe_Food_Pie_Meat.description = [TMP] Apprend la recette <item is="Food_Pie_Meat"/>.\n\nRétablit instantanément <color is="#ffffff">15%</color> de santé et accorde :\n\n•<color is="#ffffff">Régénération de santé III</color>\n•<color is="#ffffff">Augmentation de santé III</color> VAR_12__\nDurée :<color is="#ffffff">6 :00</color>
 items.Recipe_Food_Salad_Caesar.name = [TMP] Recette: Salade César
-items.Recipe_Food_Salad_Caesar.description = [TMP] Apprend la recette<item is= "Food_Salad_Caesar"/>.\n\nRétablit instantanément <color is="#ffffff">15%</color> de santé et accorde :\n\n•<color is="#ffffff">Régénération de santé III</color>\n•<color is="#ffffff">Augmentation d'endurance III</color> VAR_12__\nDurée :<color is="#ffffff">6 :00</color>
+items.Recipe_Food_Salad_Caesar.description = [TMP] Apprend la recette <item is="Food_Salad_Caesar"/>.\n\nRétablit instantanément <color is="#ffffff">15%</color> de santé et accorde :\n\n•<color is="#ffffff">Régénération de santé III</color>\n•<color is="#ffffff">Augmentation d'endurance III</color> VAR_12__\nDurée :<color is="#ffffff">6 :00</color>
 items.Food_Pie_Pumpkin.description = [TMP] Restaure instantanément <color is="#ffffff">15%</color> santé et accorde :\n\n•<color is="#ffffff">Régénération de santé III</color>\n•<color is="#ffffff">Augmentation d'endurance III</color>\n\nDurée :<color is="#ffffff">6:00</color>
 items.Food_Wildmeat_Cooked.description = [TMP] Restaure instantanément <color is="#ffffff">10 %</color> santé et accorde :\n\n•<color is="#ffffff">Régénération de santé II</color>\n•<color is="#ffffff">Augmentation de santé II</color>_\n\nDurée :<color is="#ffffff">2:30</color>
 items.Food_Fish_Grilled.description = [TMP] Restaure instantanément <color is="#ffffff">10 %</color> santé et accorde :\n\n•<color is="#ffffff">Régénération de santé II</color>\n•<color is="#ffffff">Augmentation de santé II</color>_\n\nDurée :<color is="#ffffff">2:30</color>
